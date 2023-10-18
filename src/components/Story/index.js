@@ -17,7 +17,7 @@ export function Story() {
             <div className="user-elements" >
 
                 <div>
-                    <img className="image-user-story" src= {Fotom} />
+                    <img className="image-user-story" src= "img/mm.jpg" />
                 </div>
 
                 <span>Mulher</span>
@@ -26,7 +26,7 @@ export function Story() {
             <div className="user-elements" >
 
                 <div>
-                    <img className="image-user-story" src= {Fotob} />
+                    <img className="image-user-story" src= "img/bat.jpg" />
                 </div>
 
                 <span>Batmain</span>
@@ -39,7 +39,7 @@ export function Story() {
             <div className="user-elements" >
 
                 <div>
-                    <img className="image-user-story" src={Fotos}  />
+                    <img className="image-user-story" src= "img/sm.jpg"  />
                 </div>
 
                 <span>super_</span>
@@ -52,7 +52,7 @@ export function Story() {
             <div className="user-elements" >
 
                 <div>
-                    <img className="image-user-story" src={Fotoc}  />
+                    <img className="image-user-story" src= "img/cori.jpg" />
                 </div>
 
                 <span>curinga</span>
@@ -65,7 +65,7 @@ export function Story() {
             <div className="user-elements" >
 
                 <div>
-                    <img className="image-user-story" src={Fotoh} />
+                    <img className="image-user-story" src= "img/homi.jpg"/>
                 </div>
 
                 <span>homi_di</span>
@@ -78,7 +78,7 @@ export function Story() {
             <div className="user-elements" >
 
                 <div>
-                    <img className="image-user-story" src={Fotot}  />
+                    <img className="image-user-story" src= "img/tan.jpg" />
                 </div>
 
                 <span>tamus_j</span>
@@ -91,7 +91,7 @@ export function Story() {
             <div className="user-elements" >
 
                 <div>
-                    <img className="image-user-story" src= {Fotov} />
+                    <img className="image-user-story" src= "img/vn.jpg" />
                 </div>
 
                 <span>viuva_ne</span>
@@ -102,7 +102,7 @@ export function Story() {
             <div className="user-elements" >
 
                 <div>
-                    <img className="image-user-story" src= {Fotof} />
+                    <img className="image-user-story" src= "img/tfla.jpg"  />
                 </div>
 
                 <span>d_flechi</span>

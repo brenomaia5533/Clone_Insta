@@ -1,12 +1,4 @@
 import './style.css'
-import Fotom from "./img/mm.jpg"
-import Fotob from "./img/bat.jpg"
-import Fotos from "./img/sm.jpg"
-import Fotoc from "./img/cori.jpg"
-import Fotoh from "./img/homi.jpg"
-import Fotot from "./img/tan.jpg"
-import Fotov from "./img/vn.jpg"
-import Fotof from "./img/tfla.jpg"
 
 export function Story() {
 
